@@ -16,7 +16,6 @@ This project provides a Python implementation of a Singly Linked List (SLL), a f
 <br>
 
 **Usage**
-<br>
 1. Creating an SLL: Instantiate the SinglyLinkedList class.
 2. Manipulating the List: Use methods like append, delete, find, and delete_all to modify the list.
 3. Querying the List: Apply length, find, and find_sum to retrieve information from the list.
