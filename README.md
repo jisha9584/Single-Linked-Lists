@@ -33,5 +33,7 @@ Python 3.x
 **Ideal For**
 <br>
 Students and developers learning about linked lists and data structures.
+<br>
 Python programmers looking for a reference implementation of a singly linked list.
+<br>
 Use cases requiring basic list operations without the overhead of built-in list structures.
